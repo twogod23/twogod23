@@ -4,7 +4,7 @@
 私は和歌山大学システム工学部在学で、情報科学や人間科学を主に学んでいます。また、学生プロジェクトでゲーム制作を行っています。
 
 ---
-# プロジェクト
+# 制作物
 ## ゲーム
 ### 素麵招宴（流しそうめんシミュレータゲーム）
 簡単な操作で、流しそうめんを体験できる、流しそうめん体験シミュレーションゲームです。<br>
@@ -33,6 +33,46 @@ Python（GoogleColaboratory）と画像生成AI（StableDiffusion）を用いて
 使用した技術: Python, StableDiffusion, HTML, CSS<br>
 
 ---
+##デザイン
+###筆記具とともに使えるマウスのデザイン
+新たなマウスのデザインとして、「文房具 ✕ マウス」をコンセプトに、ペンを置くことなく人差し指と中指の間に挟んだまま操作が行えるマウスを提案しました。<br>
+<p align="left" height="500px">
+  ![mouse_poster](https://github.com/twogod23/twogod23/assets/89783778/4dd63a7a-5721-4270-9515-618c545449ef)
+</p>
+<p align="right" height="500px">
+  ![mouse-concept](https://github.com/twogod23/twogod23/assets/89783778/057aa086-7a25-47cb-9642-9efd269fb4fa)
+</p><br>
+使用した技術: Illustrator, Photoshop<br>
+
+---
+###筆記具とともに使えるマウスのデザイン
+気軽に送れるプレゼントとして折り畳み傘に着目し、パッケージおよび広告ブースの企画・提案を行いました。<br>
+<p align="left" height="500px">
+  ![60266261](https://github.com/twogod23/twogod23/assets/89783778/353204c0-8fe6-4fbe-a528-5cfab1345ff6)
+</p>
+<p align="right" height="500px">
+  ![デザイン表現演習プレゼンテーションシート](https://github.com/twogod23/twogod23/assets/89783778/d34abf7c-eb1f-4ac9-8b0d-9df7ca1d983e)
+</p><br>
+使用した技術: Illustrator, Lightroom, Demension<br>
+
+---
+###学生プロジェクトのポスターのレイアウトデザイン
+所属する学生プロジェクトのポスターのレイアウトデザインを行いました。<br>
+<p align="left" height="500px">
+  ![CGPポスター2023ver2](https://github.com/twogod23/twogod23/assets/89783778/7a0e0795-1339-471c-99bb-82cb9ccac17a)
+</p>
+<p align="right" height="500px">
+  ![CGPポスター2023ver1](https://github.com/twogod23/twogod23/assets/89783778/e81176fe-fc02-43de-a7c4-9adfb553c2a2)
+</p><br>
+担当：企画, レイアウトデザイン (素材画像は制作しておりません)<br>
+使用した技術: Illustrator, Lightroom, Demension<br>
+
+---
+##CG
+###清涼飲料水のCM制作
+清涼飲料水の15秒CMを制作しました。<br>
+[final.webm](https://github.com/twogod23/twogod23/assets/89783778/0890dfe5-e17b-4bd9-90c4-c78e076e416f)<br>
+使用した技術: Blender, Illustrator, PremierePro<br>
 
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=twogod23&layout=compact&show_icons=true&theme=dark" />
