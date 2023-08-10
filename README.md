@@ -1,7 +1,7 @@
 ### Hi there 👋
 <p align="left"> 
-  <img alt="Top Langs" height="auto" width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=twogod23&layout=compact&show_icons=true&theme=dark" />
-  <img alt="github stats" height="auto" width="40%" src="https://github-readme-stats.vercel.app/api?username=twogod23&theme=dark&show_icons=ture" />
+  <img alt="Top Langs" height="150px" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=twogod23&layout=compact&show_icons=true&theme=dark" />
+  <img alt="github stats" height="150px" width="30%" src="https://github-readme-stats.vercel.app/api?username=twogod23&theme=dark&show_icons=ture" />
 </p>
 
 <!--
