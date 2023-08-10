@@ -33,31 +33,40 @@ Python（GoogleColaboratory）と画像生成AI（StableDiffusion）を用いて
 使用した技術: Python, StableDiffusion, HTML, CSS<br>
 
 ---
-##デザイン
-###筆記具とともに使えるマウスのデザイン
+## デザイン
+### 筆記具とともに使えるマウスのデザイン
 新たなマウスのデザインとして、「文房具 ✕ マウス」をコンセプトに、ペンを置くことなく人差し指と中指の間に挟んだまま操作が行えるマウスを提案しました。<br>
-<img align="left" src="https://github-production-user-asset-6210df.s3.amazonaws.com/89783778/259841072-4dd63a7a-5721-4270-9515-618c545449ef.jpg" height="500px"/>
-<img align="right" src="https://github-production-user-asset-6210df.s3.amazonaws.com/89783778/259841113-057aa086-7a25-47cb-9642-9efd269fb4fa.jpg" height="500px"/><br>
+<p>
+  <img align="left" src="https://github-production-user-asset-6210df.s3.amazonaws.com/89783778/259841072-4dd63a7a-5721-4270-9515-618c545449ef.jpg" width="48%"/>
+  <img align="right" src="https://github-production-user-asset-6210df.s3.amazonaws.com/89783778/259841113-057aa086-7a25-47cb-9642-9efd269fb4fa.jpg" width="47%"/>
+</p>
+<br clear="both">
 使用した技術: Illustrator, Photoshop<br>
 
 ---
-###筆記具とともに使えるマウスのデザイン
+### 折り畳み傘のパッケージデザイン
 気軽に送れるプレゼントとして折り畳み傘に着目し、パッケージおよび広告ブースの企画・提案を行いました。<br>
-<img align="left" src="https://github-production-user-asset-6210df.s3.amazonaws.com/89783778/259842913-353204c0-8fe6-4fbe-a528-5cfab1345ff6.png" height="500px"/>
-<img align="right" src="https://github-production-user-asset-6210df.s3.amazonaws.com/89783778/259842380-d34abf7c-eb1f-4ac9-8b0d-9df7ca1d983e.jpg" height="500px"/><br>
+<p>
+  <img align="left" src="https://github-production-user-asset-6210df.s3.amazonaws.com/89783778/259842913-353204c0-8fe6-4fbe-a528-5cfab1345ff6.png" width="43%"/>
+  <img align="right" src="https://github-production-user-asset-6210df.s3.amazonaws.com/89783778/259842380-d34abf7c-eb1f-4ac9-8b0d-9df7ca1d983e.jpg" width="53%"/>
+</p>
+<br clear="both">
 使用した技術: Illustrator, Lightroom, Demension<br>
 
 ---
-###学生プロジェクトのポスターのレイアウトデザイン
+### 学生プロジェクトのポスターのレイアウトデザイン
 所属する学生プロジェクトのポスターのレイアウトデザインを行いました。<br>
-<img align="left" src="https://github-production-user-asset-6210df.s3.amazonaws.com/89783778/259844885-7a0e0795-1339-471c-99bb-82cb9ccac17a.jpg" height="500px"/>
-<img align="right" src="https://github-production-user-asset-6210df.s3.amazonaws.com/89783778/259844838-e81176fe-fc02-43de-a7c4-9adfb553c2a2.jpg" height="500px"/><br>
+<p>
+  <img align="left" src="https://github-production-user-asset-6210df.s3.amazonaws.com/89783778/259844885-7a0e0795-1339-471c-99bb-82cb9ccac17a.jpg" width="48%"/>
+  <img align="right" src="https://github-production-user-asset-6210df.s3.amazonaws.com/89783778/259844838-e81176fe-fc02-43de-a7c4-9adfb553c2a2.jpg" width="48%"/><br>
+</p>
+<br clear="both">
 担当：企画, レイアウトデザイン (素材画像は制作しておりません)<br>
 使用した技術: Illustrator, Lightroom, Demension<br>
 
 ---
-##CG
-###清涼飲料水のCM制作
+## CG
+### 清涼飲料水のCM制作
 清涼飲料水の15秒CMを制作しました。<br>
 [final.webm](https://github.com/twogod23/twogod23/assets/89783778/0890dfe5-e17b-4bd9-90c4-c78e076e416f)<br>
 使用した技術: Blender, Illustrator, PremierePro<br>
