@@ -47,7 +47,7 @@ Python（GoogleColaboratory）と画像生成AI（StableDiffusion）を用いて
 ### 折り畳み傘のパッケージデザイン
 気軽に送れるプレゼントとして折り畳み傘に着目し、パッケージおよび広告ブースの企画・提案を行いました。<br>
 <p>
-  <img align="left" src="https://github-production-user-asset-6210df.s3.amazonaws.com/89783778/259842913-353204c0-8fe6-4fbe-a528-5cfab1345ff6.png" width="4２%"/>
+  <img align="left" src="https://github-production-user-asset-6210df.s3.amazonaws.com/89783778/259842913-353204c0-8fe6-4fbe-a528-5cfab1345ff6.png" width="42%"/>
   <img align="right" src="https://github-production-user-asset-6210df.s3.amazonaws.com/89783778/259842380-d34abf7c-eb1f-4ac9-8b0d-9df7ca1d983e.jpg" width="52%"/>
 </p>
 <br clear="both">
