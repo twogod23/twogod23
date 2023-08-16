@@ -37,30 +37,27 @@ Python（GoogleColaboratory）と画像生成AI（StableDiffusion）を用いて
 ### 筆記具とともに使えるマウスのデザイン
 新たなマウスのデザインとして、「文房具 ✕ マウス」をコンセプトに、ペンを置くことなく人差し指と中指の間に挟んだまま操作が行えるマウスを提案しました。<br>
 <p>
-  <img align="left" src="https://github-production-user-asset-6210df.s3.amazonaws.com/89783778/259841072-4dd63a7a-5721-4270-9515-618c545449ef.jpg" width="48%"/>
-  <img align="right" src="https://github-production-user-asset-6210df.s3.amazonaws.com/89783778/259841113-057aa086-7a25-47cb-9642-9efd269fb4fa.jpg" width="47%"/>
+  <img src="./Files/mouse-concept.png"/>
 </p>
-<br clear="both">
+<br>
 使用した技術: Illustrator, Photoshop<br>
 
 ---
 ### 折り畳み傘のパッケージデザイン
 気軽に送れるプレゼントとして折り畳み傘に着目し、パッケージおよび広告ブースの企画・提案を行いました。<br>
 <p>
-  <img align="left" src="https://github-production-user-asset-6210df.s3.amazonaws.com/89783778/259842913-353204c0-8fe6-4fbe-a528-5cfab1345ff6.png" width="42%"/>
-  <img align="right" src="https://github-production-user-asset-6210df.s3.amazonaws.com/89783778/259842380-d34abf7c-eb1f-4ac9-8b0d-9df7ca1d983e.jpg" width="52%"/>
+  <img src="./Files/package.png"/>
 </p>
-<br clear="both">
+<br>
 使用した技術: Illustrator, Lightroom, Demension<br>
 
 ---
 ### 学生プロジェクトのポスターのレイアウトデザイン
 所属する学生プロジェクトのポスターのレイアウトデザインを行いました。<br>
 <p>
-  <img align="left" src="https://github-production-user-asset-6210df.s3.amazonaws.com/89783778/259844885-7a0e0795-1339-471c-99bb-82cb9ccac17a.jpg" width="47%"/>
-  <img align="right" src="https://github-production-user-asset-6210df.s3.amazonaws.com/89783778/259844838-e81176fe-fc02-43de-a7c4-9adfb553c2a2.jpg" width="47%"/><br>
+  <img src="./Files/cgpposter.png"/>
 </p>
-<br clear="both">
+<br>
 担当：企画, レイアウトデザイン (素材画像は制作しておりません)<br>
 使用した技術: Illustrator, Lightroom, Demension<br>
 
