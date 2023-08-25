@@ -49,7 +49,7 @@ Python（GoogleColaboratory）と画像生成AI（StableDiffusion）を用いて
   <img src="./Files/package.png"/>
 </p>
 <br>
-使用した技術: Illustrator, Lightroom, Demension<br>
+使用した技術: Illustrator, Lightroom<br>
 
 ---
 ### 学生プロジェクトのポスターのレイアウトデザイン
