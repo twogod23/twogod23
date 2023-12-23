@@ -1,0 +1,127 @@
+@import url(http://fonts.googleapis.com/earlyaccess/notosansjapanese.css);
+body {
+    font-size: 120%;
+    color: black;
+    background-color: #a0a0a0;
+    font-family: 'Noto Sans Japanese', sans-serif;
+}
+div.title {
+    color: white;
+    background-color: #bd0303;
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    right: 0px;
+}
+
+div.contents {
+    margin-top: 10ex;
+}
+
+div.jumpmenu {
+    color: black;
+    background-color: lightyellow;
+    float: left;
+    position: fixed;
+    top: 10.4ex;
+    width: 10em;
+}
+
+div.mysights {
+    margin-left: 10em;
+}
+
+div.mysights::after{
+    clear: both;
+}
+
+img {
+    width: 30%;
+    margin: 1%;
+    padding: 1%;
+    float: right;
+}
+.table {
+    margin-left: 1%;
+    margin-right: 34%;
+    margin-top: 1%;
+    margin-bottom: 1%;
+    border-collapse: collapse;
+    border-spacing: 1;
+}
+.table th {
+    width: 20%;
+    padding: 1ex;
+    background: #abb1b5;
+    border: solid 1px black;
+    text-align: center;
+}
+.table td {
+    width: 45%;
+    padding: 1ex;
+    border: solid 1px black;
+    background: #d4d9dc;
+    text-align: left;
+}
+.table::after {
+    clear:both;
+}
+
+div.category1 {
+    background-color: #6cbb5a;
+    padding: 1%;
+    text-align: center;
+    font-size: 100%;
+}
+div.category2 {
+    background-color: #00a7db;
+    padding: 1%;
+    text-align: center;
+    font-size: 100%;
+}
+div.category3 {
+    background-color: #e95464;
+    padding: 1%;
+    text-align: center;
+    font-size: 100%;
+}
+
+h2 a {
+    margin-top: -10ex;
+    padding-top: 10ex;
+}
+
+div.hidden {
+    display: none;
+}
+
+div.show {
+    animation: slideIn 1s ease 0s 1 normal;
+}
+
+@keyframes slideIn {
+    0% {margin-left: 200px; opacity: 0}
+    100% {margin-left: 0px; opacity: 1}
+}
+
+
+@media screen and (max-width:640px) {
+    div.jumpmenu {
+        position: static;
+        width: 100%;
+    }
+    div.mysights {
+        margin-left: auto;
+    }
+    div.jumpmenu ul {
+        margin: 0px;
+        padding: 0px;
+    }
+    div.jumpmenu li {
+        display: inline-block;
+        text-align: center;
+        padding: 1ex;
+        min-width: 4em;
+        max-width: 8em;
+    }
+}

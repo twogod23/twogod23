@@ -1,0 +1,354 @@
+<!DOCTYPE html>
+<html lang="ja">
+    <head>
+        <meta charset="utf-8">
+        <title>和歌山市の学びに役立つサイト</title>
+        <link rel="stylesheet" type="text/css" href="mysite.css"/>
+        <script type="text/javascript" src="mysite.js">//</script>
+        <link href="http://netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" rel="stylesheet"/>
+    </head>
+    <body>
+        <div class="title">
+            <h1>和歌山市の学びスポット</h1>
+        </div>
+
+        <div class="contents">
+            <label for="mode" id="toggle" class="fa fa-bars">
+                <input type="checkbox" id="mode" onchange="toggleMenu()"/>
+            </label>
+            <div class="jumpmenu" id="headmenu">
+                <h2>カテゴリ</h2>
+                <ul>
+                    <li><a href="#library" onclick="changeCategory('cat_library');" onkeypress="changeCategory('cat_library');">図書館</a></li>
+                    <li><a href="#museum" onclick="changeCategory('cat_museum');" onkeypress="changeCategory('cat_museum');">博物館</a></li>
+                    <li><a href="#art" onclick="changeCategory('cat_art');" onkeypress="changeCategory('cat_art');">美術館</a></li>
+                    <li><a href="#animal" onclick="changeCategory('cat_animal');" onkeypress="changeCategory('cat_animal');">動物園</a></li>
+                </ul>
+            </div>
+
+            <div class="mysights">
+                <div class="category" id="cat_library">
+                    <div class="category1">
+                        <h2><a id="library">図書館</a></h2>
+                        <table class="table">
+                            <tr>
+                                <th>名称</th>
+                                <td>和歌山市民図書館</td>
+                            </tr>
+                            <tr>
+                                <th>所在地</th>
+                                <td>和歌山県和歌山市屏風丁17番地</td>
+                            </tr>
+                            <tr>
+                                <th>休館日</th>
+                                <td>年中無休</td>
+                            </tr>
+                            <tr>
+                                <th>開館時間</th>
+                                <td>9時～21時</td>
+                            </tr>
+                            <tr>
+                                <th>地図</th>
+                                <td><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1386.8293575837283!2d135.1674936664133!3d34.23693992308739!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6000b2921fe40ea3%3A0xaa39927f9b7c9211!2z5ZKM5q2M5bGx5biC5rCR5Zuz5pu46aSo!5e0!3m2!1sja!2sjp!4v1654617977977!5m2!1sja!2sjp" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></td>
+                            </tr>
+                        </table>
+
+                        <table class="table">
+                            <tr>
+                                <th>名称</th>
+                                <td>和歌山市民図書館　西分館</td>
+                            </tr>
+                            <tr>
+                                <th>所在地</th>
+                                <td>和歌山市松江775番地の1　河西ほほえみセンター内</td>
+                            </tr>
+                            <tr>
+                                <th>休館日</th>
+                                <td>
+                                    月曜日　(同日が祝日と重なるときはその翌平日)<br>
+                                    年末年始（12/29～1/3)<br>
+                                    特別整理期間<br>
+                                </td>
+                            </tr>
+                            <tr>
+                                <th>開館時間</th>
+                                <td>10時～20時</td>
+                            </tr>
+                            <tr>
+                                <th>地図</th>
+                                <td><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3297.8007199219155!2d135.1357257154869!3d34.25362831453749!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6000adedcc64fb19%3A0xff0bc47d23a5a21c!2z5ZKM5q2M5bGx5biC5rCR5Zuz5pu46aSoIOilv-WIhumkqA!5e0!3m2!1sja!2sjp!4v1654618115935!5m2!1sja!2sjp" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></td>
+                            </tr>
+                        </table>
+
+                        <table class="table">
+                            <tr>
+                                <th>名称</th>
+                                <td>和歌山県立図書館</td>
+                            </tr>
+                            <tr>
+                                <th>所在地</th>
+                                <td>和歌山県和歌山市西高松一丁目7番38号　きのくに志学館1階</td>
+                            </tr>
+                            <tr>
+                                <th>休館日</th>
+                                <td>月曜日　(ただし、祝日及び振替休日は開館、翌日が休館)<br>
+                                    館内整理日 (毎月第2木曜日、1月については4日)<br>
+                                    年末年始（12/29～1/3)<br>
+                                    資料点検期間<br>
+                                </td>
+                            </tr>
+                            <tr>
+                                <th>開館時間</th>
+                                <td>
+                                    平日：9時～19時<br>
+                                    休日：9時～18時
+                                </td>
+                            </tr>
+                            <tr>
+                                <th>地図</th>
+                                <td><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3299.6118618693467!2d135.16670851548616!3d34.20739221698479!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x60074d359490ca3d%3A0x1a8e7de4ab583136!2z44CSNjQxLTAwNTEg5ZKM5q2M5bGx55yM5ZKM5q2M5bGx5biC6KW_6auY5p2-77yR5LiB55uu77yX4oiS77yT77yYIOecjOeri-Wbs-abuOmkqA!5e0!3m2!1sja!2sjp!4v1654618145700!5m2!1sja!2sjp" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></td>
+                            </tr>
+                        </table>
+                    </div>
+                </div>
+
+                <div class="category hidden" id="cat_museum">
+                    <div class="category2">
+                        <h2><a id="museum">博物館</a></h2>
+                        <table class="table">
+                            <tr>
+                                <th>名称</th>
+                                <td>和歌山市立博物館</td>
+                            </tr>
+                            <tr>
+                                <th>所在地</th>
+                                <td>和歌山県和歌山市湊本町3丁目2番地</td>
+                            </tr>
+                            <tr>
+                                <th>休館日</th>
+                                <td>
+                                    月曜日、祝日の翌日 (月曜日が祝日の場合は開館、翌日休館)<br>
+                                    6月14日～6月21日 (館内燻蒸のため)<br>
+                                    12月29日～1月3日
+                                </td>
+                            </tr>
+                            <tr>
+                                <th>開館時間</th>
+                                <td>
+                                    9時～17時 (入場は16時30分まで)
+                                </td>
+                            </tr>
+                            <tr>
+                                <th>地図</th>
+                                <td><iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d13194.402271159826!2d135.163128!3d34.233216!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x14d2de5f13b22342!2z5ZKM5q2M5bGx5biC56uL5Y2a54mp6aSo!5e0!3m2!1sja!2sjp!4v1654621031219!5m2!1sja!2sjp" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></td>
+                            </tr>
+                        </table>
+
+                        <table class="table">
+                            <tr>
+                                <th>名称</th>
+                                <td>和歌山県立博物館</td>
+                            </tr>
+                            <tr>
+                                <th>所在地</th>
+                                <td>和歌山市吹上1-4-14</td>
+                            </tr>
+                            <tr>
+                                <th>休館日</th>
+                                <td>
+                                    月曜日 (ただし祝日の場合は、その翌平日)<br>
+                                    年末年始<br>
+                                    臨時休館日 (展示替え期間など)
+                                </td>
+                            </tr>
+                            <tr>
+                                <th>開館時間</th>
+                                <td>
+                                    9時～17時 (入場は16時30分まで)
+                                </td>
+                            </tr>
+                            <tr>
+                                <th>地図</th>
+                                <td><iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d6597.877287844842!2d135.171685!3d34.224585!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x5e5e1b957debd68!2z5ZKM5q2M5bGx55yM56uL5Y2a54mp6aSo!5e0!3m2!1sja!2sjp!4v1654621278532!5m2!1sja!2sjp" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></td>
+                            </tr>
+                        </table>
+
+                        <table class="table">
+                            <tr>
+                                <th>名称</th>
+                                <td>万葉館</td>
+                            </tr>
+                            <tr>
+                                <th>所在地</th>
+                                <td>和歌山県和歌山市和歌浦南3丁目1700</td>
+                            </tr>
+                            <tr>
+                                <th>休館日</th>
+                                <td>
+                                    月曜日 (ただし、月曜が休日の場合は翌平日)<br>
+                                    年末年始 (12月29日～1月3日)
+                                </td>
+                            </tr>
+                            <tr>
+                                <th>開館時間</th>
+                                <td>
+                                    9時～17時 (入場は16時30分まで)
+                                </td>
+                            </tr>
+                            <tr>
+                                <th>地図</th>
+                                <td><iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3300.38009114841!2d135.179978907193!3d34.187763738229506!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xb060ed6027bed1d0!2z5LiH6JGJ6aSo!5e0!3m2!1sja!2sjp!4v1654621503373!5m2!1sja!2sjp" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></td>
+                            </tr>
+                        </table>
+
+                        <table class="table">
+                            <tr>
+                                <th>名称</th>
+                                <td>和歌山県立紀伊風土記の丘</td>
+                            </tr>
+                            <tr>
+                                <th>所在地</th>
+                                <td>和歌山県和歌山市岩橋1411</td>
+                            </tr>
+                            <tr>
+                                <th>休館日</th>
+                                <td>
+                                    月曜日 (ただし、月曜が祝休日の場合は翌平日)<br>
+                                    年末年始 (12月29日～1月3日)<br>
+                                    展示替期間
+                                </td>
+                            </tr>
+                            <tr>
+                                <th>開館時間</th>
+                                <td>
+                                    9時～16時30分
+                                </td>
+                            </tr>
+                            <tr>
+                                <th>地図</th>
+                                <td><iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d13195.237535920687!2d135.2295895!3d34.2278852!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x138b3e093a5dbb65!2z5ZKM5q2M5bGx55yM56uLIOe0gOS8iumiqOWcn-iomOOBruS4mA!5e0!3m2!1sja!2sjp!4v1654621739328!5m2!1sja!2sjp" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></td>
+                            </tr>
+                        </table>
+
+                        <table class="table">
+                            <tr>
+                                <th>名称</th>
+                                <td>わかやま歴史館</td>
+                            </tr>
+                            <tr>
+                                <th>所在地</th>
+                                <td>和歌山県和歌山市一番丁三番地</td>
+                            </tr>
+                            <tr>
+                                <th>休館日</th>
+                                <td>
+                                    12月29日～12月31日
+                                </td>
+                            </tr>
+                            <tr>
+                                <th>開館時間</th>
+                                <td>
+                                    9時～17時30分 (入場は17時まで)
+                                </td>
+                            </tr>
+                            <tr>
+                                <th>地図</th>
+                                <td><iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d13194.991267845951!2d135.1701403!3d34.229457!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x4dafe34a1d980910!2z44KP44GL44KE44G-5q205Y-y6aSo!5e0!3m2!1sja!2sjp!4v1654621978495!5m2!1sja!2sjp" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></td>
+                            </tr>
+                        </table>
+
+                        <table class="table">
+                            <tr>
+                                <th>名称</th>
+                                <td>和歌山市立こども科学館</td>
+                            </tr>
+                            <tr>
+                                <th>所在地</th>
+                                <td>和歌山県和歌山市寄合町19番地</td>
+                            </tr>
+                            <tr>
+                                <th>休館日</th>
+                                <td>
+                                    月曜日 (祝日と重なる場合はその翌日)<br>
+                                    年末年始 (12月29日～1月3日)
+                                </td>
+                            </tr>
+                            <tr>
+                                <th>開館時間</th>
+                                <td>
+                                    9時30分～16時30分
+                                </td>
+                            </tr>
+                            <tr>
+                                <th>地図</th>
+                                <td><iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d13194.45901098211!2d135.1690192!3d34.2328539!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xcbb3ccdf3dc9c56b!2z5ZKM5q2M5bGx5biC56uL44GT44Gp44KC56eR5a2m6aSo!5e0!3m2!1sja!2sjp!4v1654622264127!5m2!1sja!2sjp" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></td>
+                            </tr>
+                        </table>
+                    </div>
+                </div>
+
+                <div class="category hidden" id="cat_art">
+                    <div class="category3">
+                        <h2><a id="art">美術館</a></h2>
+                        <table class="table">
+                            <tr>
+                                <th>名称</th>
+                                <td>和歌山県立近代美術館</td>
+                            </tr>
+                            <tr>
+                                <th>所在地</th>
+                                <td>和歌山県和歌山市吹上1-4-14</td>
+                            </tr>
+                            <tr>
+                                <th>休館日</th>
+                                <td>月曜日 (祝日の場合は翌日)<br>
+                                </td>
+                            </tr>
+                            <tr>
+                                <th>開館時間</th>
+                                <td>
+                                    9時30分～17時 (入場は16時30分まで)
+                                </td>
+                            </tr>
+                            <tr>
+                                <th>地図</th>
+                                <td><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3298.921198814671!2d135.1690893154865!3d34.22503041605146!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6000b2c13320186d%3A0xd0b8a0ec693d47d4!2z5ZKM5q2M5bGx55yM56uL6L-R5Luj576O6KGT6aSo!5e0!3m2!1sja!2sjp!4v1654618220618!5m2!1sja!2sjp" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></td>
+                            </tr>
+                        </table>
+                    </div>
+                </div>
+
+                <div class="category hidden" id="cat_animal">
+                    <div class="category4">
+                        <h2><a id="animal">動物園</a></h2>
+                        <table class="table">
+                            <tr>
+                                <th>名称</th>
+                                <td>和歌山城公園動物園</td>
+                            </tr>
+                            <tr>
+                                <th>所在地</th>
+                                <td>和歌山県和歌山市一番丁3番地</td>
+                            </tr>
+                            <tr>
+                                <th>休園日</th>
+                                <td>6～9月、12～2月の火曜日 (祝日の場合は直後の平日)<br>
+                                </td>
+                            </tr>
+                            <tr>
+                                <th>開館時間</th>
+                                <td>
+                                    9時～17時 (入場は16時30分まで)
+                                </td>
+                            </tr>
+                            <tr>
+                                <th>地図</th>
+                                <td><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4946.013225220396!2d135.16739651841286!3d34.22914554809699!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6000b2c3e76effc5%3A0xfb7e407af984dc4c!2z5ZKM5q2M5bGx5Z-O5YWs5ZyS5YuV54mp5ZyS!5e0!3m2!1sja!2sjp!4v1654623351096!5m2!1sja!2sjp" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></td>
+                            </tr>
+                        </table>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </body>
+</html>
