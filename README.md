@@ -17,8 +17,10 @@
 
 ### 素麵招宴（流しそうめんシミュレータゲーム）
 簡単な操作で、流しそうめんを体験できる、流しそうめん体験シミュレーションゲームです。<br>
-
-![SoumenShouenPlay](https://github.com/twogod23/twogod23/assets/89783778/57e11926-0279-4228-948c-5ca14ec7cd6a)<br>
+<p>
+  <img src="./Files/SomenPlay.png"><br>
+  <video controls src="./Files/somen.mp4"></video>
+</p>
 <p>
 <a href=https://unityroom.com/games/cgp-team2021-somen>プレイはこちらから</a><br>
 </p>
@@ -35,7 +37,10 @@
 ----
 ### 妖精の夏と冬（アクションゲーム）
 妖精の力を借りて妹を助けよう！　ステージの季節を切り替えて進む２Dアクションゲームです。<br>
-![image](https://github.com/twogod23/twogod23/assets/89783778/15937c1a-22f3-41ac-b848-23a6ce54eed0)<br>
+<p>
+  <img src="./Files/yousei.png"><br>
+  <img src="./Files/yosei.gif"/>
+</p>
 <p>
 <a href=https://unityroom.com/games/cgphackb_yousei>プレイはこちらから</a><br>
 </p>
@@ -43,7 +48,7 @@
 学生プロジェクトの活動にて、季節を切り替えて先へ進む2Dアクションゲームを制作しました。<br>
 </p>
 <p>
-担当：プログラム, 企画<br>
+担当：プログラム(タイトル・メニュー画面, BGMの実装), 企画<br>
 使用した技術: Unity<br>
 制作期間：3ヶ月<br>
 制作時期：2022年冬〜2023年春（大学2年）<br>
@@ -257,8 +262,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<style>
-  a {
-    size: 2.0rem;
-  }
-</style>
