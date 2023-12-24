@@ -19,7 +19,7 @@
 簡単な操作で、流しそうめんを体験できる、流しそうめん体験シミュレーションゲームです。<br>
 <p>
   <img src="./Files/SomenPlay.png"><br>
-  <video controls src="./Files/somen.mp4"></video>
+  <img src="./Files/somen.gif"/>
 </p>
 <p>
 <a href=https://unityroom.com/games/cgp-team2021-somen>プレイはこちらから</a><br>
@@ -235,7 +235,7 @@ Python（GoogleColaboratory）と画像生成AI（StableDiffusion）を用いて
 ### 缶ジュースのCM制作
 缶ジュースの15秒CMを制作しました。<br>
 <p>
-  <video controls src="./Files/cg.mp4"></video>
+  <img src="./Files/cg.gif"/>
 </p>
 <p>
 授業内で清涼飲料水の15秒CMの制作の課題が出された際に制作しました。色々なものが詰まっているイメージで、明るい雰囲気になるようなCMを目指して制作しました。<br>
