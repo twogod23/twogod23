@@ -12,7 +12,7 @@
 <li><a href="https://twitter.com/CGP_wakayama">和歌山大学クリエゲーム制作プロジェクト（CGP）</a>2023年度代表</li>
 </p>
 
-<HR><HR>
+<HR>
 <h1>制作物</h1>
 <h2> 目次</h2>
 <a href="#game">ゲーム</a><br>
@@ -20,7 +20,6 @@
 <a href="#design">デザイン</a><br>
 <a href="#plan">企画</a><br>
 <a href="#cg">CG</a><br>
-
 <HR>
 <h2 id="game"> ゲーム</h2>
 
@@ -42,7 +41,6 @@
 制作期間：6ヶ月<br>
 制作時期：2022年夏〜冬（大学2年）<br>
 </p>
-
 <HR>
 <h3>妖精の夏と冬（アクションゲーム）</h3>
 妖精の力を借りて妹を助けよう！　ステージの季節を切り替えて進む２Dアクションゲームです。<br>
@@ -62,7 +60,6 @@
 制作期間：3ヶ月<br>
 制作時期：2022年冬〜2023年春（大学2年）<br>
 </p>
-
 <HR>
 <h2 id="program">プログラム</h2>
 
@@ -84,7 +81,6 @@ Python（GoogleColaboratory）と画像生成AI（StableDiffusion）を用いて
 制作期間：約2週間<br>
 制作時期：2023年春（大学3年）<br>
 </p>
-
 <HR>
 <h3>年代によるアイドルの楽曲の歌詞で使用される単語の違いの分析</h3>
 アイドルの楽曲の歌詞で形態素解析を行い、歌詞の中に使用される単語の特徴を明らかにすることを目的として調査しました。<br>
@@ -101,7 +97,6 @@ Python（GoogleColaboratory）と画像生成AI（StableDiffusion）を用いて
 制作期間：約2週間<br>
 制作時期：2023年春（大学2年）<br>
 </p>
-
 <HR>
 <h3>食品廃棄を減らすことを助けるアプリの開発</h3>
 「消費レベルにおける世界全体の一人当たりの食品の廃棄を半減させる」目標を達成するために、個人レベルでの食品廃棄を減らすことを助けるアプリです。KC3Hack2022にて、3人で1週間で完成させました。<br>
@@ -118,7 +113,6 @@ Python（GoogleColaboratory）と画像生成AI（StableDiffusion）を用いて
 制作期間：約2週間<br>
 制作時期：2022年春（大学1年）<br>
 </p>
-
 <HR>
 <h3>地域の観光地を発信するWebサイトの制作</h3>
 地域の観光地を発信するWebサイトを制作する課題に対して、広島市と和歌山市を紹介するWebサイトを制作しました。<br>
@@ -134,7 +128,6 @@ Python（GoogleColaboratory）と画像生成AI（StableDiffusion）を用いて
 制作時期：2022年春（大学2年）<br>
 </p>
 <br>
-
 <HR>
 <h2 id="design"> デザイン</h2>
 
@@ -155,7 +148,6 @@ Python（GoogleColaboratory）と画像生成AI（StableDiffusion）を用いて
 制作時期：2022年夏（大学2年）<br>
 </p>
 <br>
-
 <HR>
 <h3>折り畳み傘のパッケージデザイン</h3>
 気軽に送れるプレゼントとして折り畳み傘に着目し、パッケージおよび広告ブースの企画・提案を行いました。<br>
@@ -173,7 +165,6 @@ Python（GoogleColaboratory）と画像生成AI（StableDiffusion）を用いて
 制作時期：2022年秋（大学2年）<br>
 </p>
 <br>
-
 <HR>
 <h3>独身写真家をターゲットとしたインテリアデザインの提案</h3>
 独身写真家をターゲットとして、ワーケーションができるアパートのインテリアデザインの提案を行いました。<br>
@@ -193,7 +184,6 @@ Python（GoogleColaboratory）と画像生成AI（StableDiffusion）を用いて
 制作時期：2023年夏（大学3年）<br>
 </p>
 <br>
-
 <HR>
 <h3>学生プロジェクトのポスターのレイアウトデザイン</h3>
 所属する学生プロジェクトのポスターのレイアウトデザインを行いました。<br>
@@ -210,7 +200,6 @@ Python（GoogleColaboratory）と画像生成AI（StableDiffusion）を用いて
 制作期間：1週間<br>
 制作時期：2023年春（大学3年）<br>
 </p>
-
 <HR>
 <h3>学生プロジェクトの新歓イベント告知のSNS投稿の作成</h3>
 所属する学生プロジェクトのポスターの新歓イベント告知を行うためのSNS投稿を作成しました。<br>
@@ -227,7 +216,6 @@ Python（GoogleColaboratory）と画像生成AI（StableDiffusion）を用いて
 制作期間：1日<br>
 制作時期：2023年春（大学3年）<br>
 </p>
-
 <HR>
 <h2 id="plan">企画</h2>
 
@@ -243,7 +231,6 @@ Python（GoogleColaboratory）と画像生成AI（StableDiffusion）を用いて
 制作期間：約2週間<br>
 制作時期：2022年秋（大学2年）<br>
 </p>
-
 <HR>
 <h3>多くの人に視聴される映像コンテンツについての分析・考察</h3>
 <p>
@@ -257,7 +244,6 @@ Python（GoogleColaboratory）と画像生成AI（StableDiffusion）を用いて
 制作期間：約2週間<br>
 制作時期：2022年冬（大学2年）<br>
 </p>
-
 <HR>
 <h3>桜の花をつなげるパズルゲームの企画</h3>
 学生プロジェクト内のゲーム企画コンペにて、桜の花をつなげるパズルゲームの企画書を作成しました。<br>
@@ -281,7 +267,6 @@ Python（GoogleColaboratory）と画像生成AI（StableDiffusion）を用いて
 制作時期：2023年春（大学3年）<br>
 </p>
 <br>
-
 <HR>
 <h2 id="cg"> CG</h2>
 
