@@ -1,10 +1,10 @@
-### Hi there 👋
+<h3>Hi there 👋</h3>
 
-# 自己紹介
+<h1>自己紹介</h1>
 私は和歌山大学システム工学部在学で、情報科学や人間科学を主に学んでいます。また、学生プロジェクトでゲーム制作を行っています。
 
 ---
-# 制作物
+<h1>制作物</h1>
 <h2> 目次</h2>
 <a href="#game">ゲーム</a><br>
 <a href="#program">プログラム</a><br>
@@ -15,7 +15,7 @@
 ---
 <h2 id="game"> ゲーム</h2>
 
-### 素麵招宴（流しそうめんシミュレータゲーム）
+<h3>素麵招宴（流しそうめんシミュレータゲーム）</h3>
 簡単な操作で、流しそうめんを体験できる、流しそうめん体験シミュレーションゲームです。<br>
 <p>
   <img src="./Files/SomenPlay.png"><br>
@@ -35,7 +35,7 @@
 </p>
 
 ----
-### 妖精の夏と冬（アクションゲーム）
+<h3>妖精の夏と冬（アクションゲーム）</h3>
 妖精の力を借りて妹を助けよう！　ステージの季節を切り替えて進む２Dアクションゲームです。<br>
 <p>
   <img src="./Files/yousei.png"><br>
@@ -57,7 +57,7 @@
 ---
 <h2 id="program">プログラム</h2>
 
-### 画像生成AIを用いて遊んでみよう!
+<h3>画像生成AIを用いて遊んでみよう!</h3>
 Python（GoogleColaboratory）と画像生成AI（StableDiffusion）を用いて、気軽に画像生成ができることを紹介したサイトです。<br>
 <p>
 <a href=https://twogod23.github.io/CGP2023/pr2023/index.html>制作物はこちらから</a><br>
@@ -73,7 +73,7 @@ Python（GoogleColaboratory）と画像生成AI（StableDiffusion）を用いて
 </p>
 
 ---
-### 年代によるアイドルの楽曲の歌詞で使用される単語の違いの分析
+<h3>年代によるアイドルの楽曲の歌詞で使用される単語の違いの分析</h3>
 アイドルの楽曲の歌詞で形態素解析を行い、歌詞の中に使用される単語の特徴を明らかにすることを目的として調査しました。<br>
 <p>
 <a href=https://github.com/twogod23/token_of_idolsong/blob/main/%E5%B9%B4%E4%BB%A3%E3%81%AB%E3%82%88%E3%82%8B%E3%82%A2%E3%82%A4%E3%83%88%E3%82%99%E3%83%AB%E3%81%AE%E6%A5%BD%E6%9B%B2%E3%81%AE%E6%AD%8C%E8%A9%9E%E3%81%A6%E3%82%99%E4%BD%BF%E7%94%A8%E3%81%95%E3%82%8C%E3%82%8B%E5%8D%98%E8%AA%9E%E3%81%AE%E9%81%95%E3%81%84%E3%81%AE%E5%88%86%E6%9E%90.pdf>調査結果のレポートはこちらから</a><br>
@@ -90,7 +90,7 @@ Python（GoogleColaboratory）と画像生成AI（StableDiffusion）を用いて
 </p>
 
 ---
-### 地域の観光地を発信するWebサイトの制作
+<h3>地域の観光地を発信するWebサイトの制作</h3>
 地域の観光地を発信するWebサイトを制作する課題に対して、広島市と和歌山市を紹介するWebサイトを制作しました。<br>
 <p>
   <a href="./Files/mysites_webdesign_a_hiroshima/mysights.html">広島市を紹介したWebサイトはこちらから</a><br>
@@ -108,7 +108,7 @@ Python（GoogleColaboratory）と画像生成AI（StableDiffusion）を用いて
 ---
 <h2 id="design"> デザイン</h2>
 
-### 筆記具とともに使えるマウスのデザイン
+<h3>筆記具とともに使えるマウスのデザイン</h3>
 新たなマウスのデザインとして、「文房具 ✕ マウス」をコンセプトに、ペンを置くことなく人差し指と中指の間に挟んだまま操作が行えるマウスを提案しました。<br>
 <p>
   <img src="./Files/mouse-concept.png"/>
@@ -127,7 +127,7 @@ Python（GoogleColaboratory）と画像生成AI（StableDiffusion）を用いて
 <br>
 
 ---
-### 折り畳み傘のパッケージデザイン
+<h3>折り畳み傘のパッケージデザイン</h3>
 気軽に送れるプレゼントとして折り畳み傘に着目し、パッケージおよび広告ブースの企画・提案を行いました。<br>
 <p>
   <img src="./Files/package.png"/>
@@ -145,7 +145,7 @@ Python（GoogleColaboratory）と画像生成AI（StableDiffusion）を用いて
 <br>
 
 ---
-### 独身写真家をターゲットとしたインテリアデザインの提案
+<h3>独身写真家をターゲットとしたインテリアデザインの提案</h3>
 独身写真家をターゲットとして、ワーケーションができるアパートのインテリアデザインの提案を行いました。<br>
 <p>
   <img src="./Files/interiordesign_1.png"/><br>
@@ -165,7 +165,7 @@ Python（GoogleColaboratory）と画像生成AI（StableDiffusion）を用いて
 <br>
 
 ---
-### 学生プロジェクトのポスターのレイアウトデザイン
+<h3>学生プロジェクトのポスターのレイアウトデザイン</h3>
 所属する学生プロジェクトのポスターのレイアウトデザインを行いました。<br>
 <p>
   <img src="./Files/cgpposter.png"/>
@@ -184,7 +184,7 @@ Python（GoogleColaboratory）と画像生成AI（StableDiffusion）を用いて
 ---
 <h2 id="plan">企画</h2>
 
-### 快適なオフィス環境についての分析・考察
+<h3>快適なオフィス環境についての分析・考察</h3>
 <p>
 コロナウイルス収束によるオフィスでの勤務が増える現状に対して、快適なオフィス環境について考察することに意義があると考え、KJ法による議論を行なったうえで、ISM法とAHPにて分析を行いました。<br>
 </p>
@@ -198,7 +198,7 @@ Python（GoogleColaboratory）と画像生成AI（StableDiffusion）を用いて
 </p>
 
 ---
-### 多くの人に視聴される映像コンテンツについての分析・考察
+<h3>多くの人に視聴される映像コンテンツについての分析・考察</h3>
 <p>
 映像コンテンツを制作するにあたり、多くの人が見るコンテンツには特徴があるのではないかと考え、視聴率の高いテレビ番組を対象に、数量化理論第3類およびクラスター分析による分析・分類を行い、よく視聴される映像コンテンツの共通点について考察を行いました。<br>
 </p>
@@ -212,7 +212,7 @@ Python（GoogleColaboratory）と画像生成AI（StableDiffusion）を用いて
 </p>
 
 ---
-### 桜の花をつなげるパズルゲームの企画
+<h3>桜の花をつなげるパズルゲームの企画</h3>
 学生プロジェクト内のゲーム企画コンペにて、桜の花をつなげるパズルゲームの企画書を作成しました。<br>
 <p>
   <img src="./Files/春企画.jpg"/><br>
@@ -237,7 +237,7 @@ Python（GoogleColaboratory）と画像生成AI（StableDiffusion）を用いて
 ---
 <h2 id="cg"> CG</h2>
 
-### 缶ジュースのCM制作
+<h3>缶ジュースのCM制作</h3>
 缶ジュースの15秒CMを制作しました。<br>
 <p>
   <img src="./Files/cg.gif"/>
