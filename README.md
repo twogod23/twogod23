@@ -1,9 +1,18 @@
 <h3>Hi there 👋</h3>
 
 <h1>自己紹介</h1>
-私は和歌山大学システム工学部在学で、情報科学や人間科学を主に学んでいます。また、学生プロジェクトでゲーム制作を行っています。
+<p>
+私は和歌山大学システム工学部在学で、情報工学やデザイン工学を主に学んでいます。また、学生プロジェクトでゲーム制作を行っています。学生プロジェクトでは、代表を務めています。
+</p>
+<p>
+<li><a href="https://www.wakayama-u.ac.jp/sys/major/md/">和歌山大学システム工学部システム工学科
+メディアデザインメジャー</a></li>
+<li><a href="https://mdi-lab.sys.wakayama-u.ac.jp/">和歌山大学メディアインテリジェンス研究室</a></li>
+<li>2025年卒業予定</li>
+<li><a href="https://twitter.com/CGP_wakayama">和歌山大学クリエゲーム制作プロジェクト（CGP）</a>2023年度代表</li>
+</p>
 
-<HR>
+<HR><HR>
 <h1>制作物</h1>
 <h2> 目次</h2>
 <a href="#game">ゲーム</a><br>
@@ -66,6 +75,10 @@ Python（GoogleColaboratory）と画像生成AI（StableDiffusion）を用いて
 学生プロジェクトの新歓イベント向けに、GoogleColabを用いて画像生成を行なって、プログラミングに興味を持ってもらうことを目的として企画・実施しました。プログラミング初心者でも簡単に楽しく実行できるように工夫しました。<br>
 </p>
 <p>
+実施内容を「KC3 Meet! Vol.01」にて紹介させていただきました。<br>
+<blockquote class="twitter-tweet" data-media-max-width="560"><p lang="ja" dir="ltr">ライトニングトーク始まりました！<a href="https://twitter.com/hashtag/KC3_Meet?src=hash&amp;ref_src=twsrc%5Etfw">#KC3_Meet</a> <a href="https://t.co/cRQtwmgOVu">pic.twitter.com/cRQtwmgOVu</a></p>&mdash; KC3（関西情報系学生団体交流会） (@kc3_official) <a href="https://twitter.com/kc3_official/status/1713451352335237254?ref_src=twsrc%5Etfw">October 15, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</p>
+<p>
 担当：プログラム, 企画<br>
 使用した技術: Python, StableDiffusion, HTML, CSS<br>
 制作期間：約2週間<br>
@@ -87,6 +100,23 @@ Python（GoogleColaboratory）と画像生成AI（StableDiffusion）を用いて
 使用した技術: Python, BeautifulSoup（Webスクレイピング）, neologdn（テキストの正規化処理）, MeCab（形態素解析）<br>
 制作期間：約2週間<br>
 制作時期：2023年春（大学2年）<br>
+</p>
+
+<HR>
+<h3>食品廃棄を減らすことを助けるアプリの開発</h3>
+「消費レベルにおける世界全体の一人当たりの食品の廃棄を半減させる」目標を達成するために、個人レベルでの食品廃棄を減らすことを助けるアプリです。KC3Hack2022にて、3人で1週間で完成させました。<br>
+<p>
+<a href=https://github.com/kc3hack/2022_c/tree/0346f>リポジトリはこちらから</a><br>
+</p>
+<p>
+私は、UIデザインと実装を行いました。
+色覚異常の人でもボタンが判別しやすいように配色を工夫しました。<br>
+</p>
+<p>
+<a href="https://kc3.me/hack/past-hack-event/">KC3Hack 2022にて作成</a><br>
+使用した技術: Unity, Windows標準ペイントソフト<br>
+制作期間：約2週間<br>
+制作時期：2022年春（大学1年）<br>
 </p>
 
 <HR>
