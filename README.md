@@ -182,6 +182,23 @@ Python（GoogleColaboratory）と画像生成AI（StableDiffusion）を用いて
 </p>
 
 <HR>
+<h3>学生プロジェクトの新歓イベント告知のSNS投稿の作成</h3>
+所属する学生プロジェクトのポスターの新歓イベント告知を行うためのSNS投稿を作成しました。<br>
+<p>
+  <img src="./Files/insta.jpg" style="width:100%;"/>
+</p>
+<p>
+  <blockquote class="twitter-tweet" data-media-max-width="560"><p lang="ja" dir="ltr">【🏁​来週開催🏁​】<br>和歌山大学CGPです！<br>来週4/17〜4/21は、『部門新歓WEEK2023-対面編-』として各部門で対面での新歓イベントを行います✨​<br>各日18時〜の開催予定です！<br>興味がある部門の活動を体験できるチャンス😊​<br>ご参加お待ちしています<a href="https://twitter.com/hashtag/%E6%98%A5%E3%81%8B%E3%82%89%E5%92%8C%E5%A4%A7?src=hash&amp;ref_src=twsrc%5Etfw">#春から和大</a> <a href="https://t.co/XfGjx9HwwA">pic.twitter.com/XfGjx9HwwA</a></p>&mdash; 和歌山大学 クリエゲーム制作Project (CGP) (@CGP_wakayama) <a href="https://twitter.com/CGP_wakayama/status/1645325710557605888?ref_src=twsrc%5Etfw">April 10, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</p>
+<br>
+<p>
+担当：デザイン<br>
+使用した技術: PowerPoint<br>
+制作期間：1日<br>
+制作時期：2023年春（大学3年）<br>
+</p>
+
+<HR>
 <h2 id="plan">企画</h2>
 
 <h3>快適なオフィス環境についての分析・考察</h3>
@@ -227,6 +244,7 @@ Python（GoogleColaboratory）と画像生成AI（StableDiffusion）を用いて
 </p>
 <p>
 <!--可能であればインスタの投稿-->
+<blockquote class="twitter-tweet" data-media-max-width="560"><p lang="ja" dir="ltr">こんにちは！和歌山大学CGPです！<br>活動内容の紹介です✨<br><br>4/28(金)に「企画書コンペ」を行いました🙌<br>全6人が&quot;春&quot;をテーマとしたオリジナルゲームの企画書を制作し、他メンバーによる厳正な審査の結果、3年生の二神が優勝しました🏆✨<br><br>6人が制作した企画書の一部がこちらです📖 <a href="https://t.co/lbegNsd8oX">pic.twitter.com/lbegNsd8oX</a></p>&mdash; 和歌山大学 クリエゲーム制作Project (CGP) (@CGP_wakayama) <a href="https://twitter.com/CGP_wakayama/status/1654710070972932096?ref_src=twsrc%5Etfw">May 6, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </p>
 <p>
 制作期間：1週間<br>
@@ -240,7 +258,7 @@ Python（GoogleColaboratory）と画像生成AI（StableDiffusion）を用いて
 <h3>缶ジュースのCM制作</h3>
 缶ジュースの15秒CMを制作しました。<br>
 <p>
-  <img src="./Files/cg.gif" style="width:100%;">
+  <img src="./Files/cg.gif" style="width:100%;"/>
 </p>
 <p>
 授業内で清涼飲料水の15秒CMの制作の課題が出された際に制作しました。色々なものが詰まっているイメージで、明るい雰囲気になるようなCMを目指して制作しました。<br>
