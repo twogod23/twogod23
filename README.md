@@ -73,7 +73,7 @@ Python（GoogleColaboratory）と画像生成AI（StableDiffusion）を用いて
 </p>
 <p>
 実施内容を「KC3 Meet! Vol.01」にて紹介させていただきました。<br>
-<blockquote class="twitter-tweet" data-media-max-width="560"><p lang="ja" dir="ltr">ライトニングトーク始まりました！<a href="https://twitter.com/hashtag/KC3_Meet?src=hash&amp;ref_src=twsrc%5Etfw">#KC3_Meet</a> <a href="https://t.co/cRQtwmgOVu">pic.twitter.com/cRQtwmgOVu</a></p>&mdash; KC3（関西情報系学生団体交流会） (@kc3_official) <a href="https://twitter.com/kc3_official/status/1713451352335237254?ref_src=twsrc%5Etfw">October 15, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet" data-media-max-width="560"><p lang="ja" dir="ltr">ライトニングトーク始まりました！<a href="https://twitter.com/hashtag/KC3_Meet?src=hash&amp;ref_src=twsrc%5Etfw">#KC3_Meet</a> <a href="https://t.co/cRQtwmgOVu">pic.twitter.com/cRQtwmgOVu</a></p>&mdash; KC3（関西情報系学生団体交流会） (@kc3_official) <a href="https://twitter.com/kc3_official/status/1713451352335237254?ref_src=twsrc%5Etfw">October 15, 2023</a></blockquote> 
 </p>
 <p>
 担当：プログラム, 企画<br>
@@ -207,7 +207,7 @@ Python（GoogleColaboratory）と画像生成AI（StableDiffusion）を用いて
   <img src="./Files/insta.jpg" style="width:100%;"/>
 </p>
 <p>
-  <blockquote class="twitter-tweet" data-media-max-width="560"><p lang="ja" dir="ltr">【🏁​来週開催🏁​】<br>和歌山大学CGPです！<br>来週4/17〜4/21は、『部門新歓WEEK2023-対面編-』として各部門で対面での新歓イベントを行います✨​<br>各日18時〜の開催予定です！<br>興味がある部門の活動を体験できるチャンス😊​<br>ご参加お待ちしています<a href="https://twitter.com/hashtag/%E6%98%A5%E3%81%8B%E3%82%89%E5%92%8C%E5%A4%A7?src=hash&amp;ref_src=twsrc%5Etfw">#春から和大</a> <a href="https://t.co/XfGjx9HwwA">pic.twitter.com/XfGjx9HwwA</a></p>&mdash; 和歌山大学 クリエゲーム制作Project (CGP) (@CGP_wakayama) <a href="https://twitter.com/CGP_wakayama/status/1645325710557605888?ref_src=twsrc%5Etfw">April 10, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+  <blockquote class="twitter-tweet" data-media-max-width="560"><p lang="ja" dir="ltr">【🏁​来週開催🏁​】<br>和歌山大学CGPです！<br>来週4/17〜4/21は、『部門新歓WEEK2023-対面編-』として各部門で対面での新歓イベントを行います✨​<br>各日18時〜の開催予定です！<br>興味がある部門の活動を体験できるチャンス😊​<br>ご参加お待ちしています<a href="https://twitter.com/hashtag/%E6%98%A5%E3%81%8B%E3%82%89%E5%92%8C%E5%A4%A7?src=hash&amp;ref_src=twsrc%5Etfw">#春から和大</a> <a href="https://t.co/XfGjx9HwwA">pic.twitter.com/XfGjx9HwwA</a></p>&mdash; 和歌山大学 クリエゲーム制作Project (CGP) (@CGP_wakayama) <a href="https://twitter.com/CGP_wakayama/status/1645325710557605888?ref_src=twsrc%5Etfw">April 10, 2023</a></blockquote>
 </p>
 <br>
 <p>
@@ -260,7 +260,7 @@ Python（GoogleColaboratory）と画像生成AI（StableDiffusion）を用いて
 </p>
 <p>
 <!--可能であればインスタの投稿-->
-<blockquote class="twitter-tweet" data-media-max-width="560"><p lang="ja" dir="ltr">こんにちは！和歌山大学CGPです！<br>活動内容の紹介です✨<br><br>4/28(金)に「企画書コンペ」を行いました🙌<br>全6人が&quot;春&quot;をテーマとしたオリジナルゲームの企画書を制作し、他メンバーによる厳正な審査の結果、3年生の二神が優勝しました🏆✨<br><br>6人が制作した企画書の一部がこちらです📖 <a href="https://t.co/lbegNsd8oX">pic.twitter.com/lbegNsd8oX</a></p>&mdash; 和歌山大学 クリエゲーム制作Project (CGP) (@CGP_wakayama) <a href="https://twitter.com/CGP_wakayama/status/1654710070972932096?ref_src=twsrc%5Etfw">May 6, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet" data-media-max-width="560"><p lang="ja" dir="ltr">こんにちは！和歌山大学CGPです！<br>活動内容の紹介です✨<br><br>4/28(金)に「企画書コンペ」を行いました🙌<br>全6人が&quot;春&quot;をテーマとしたオリジナルゲームの企画書を制作し、他メンバーによる厳正な審査の結果、3年生の二神が優勝しました🏆✨<br><br>6人が制作した企画書の一部がこちらです📖 <a href="https://t.co/lbegNsd8oX">pic.twitter.com/lbegNsd8oX</a></p>&mdash; 和歌山大学 クリエゲーム制作Project (CGP) (@CGP_wakayama) <a href="https://twitter.com/CGP_wakayama/status/1654710070972932096?ref_src=twsrc%5Etfw">May 6, 2023</a></blockquote>
 </p>
 <p>
 制作期間：1週間<br>
