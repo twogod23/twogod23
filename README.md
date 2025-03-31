@@ -10,9 +10,9 @@
 メディアデザインメジャー</a>卒業（2025年3月）</li>
 <ul>
 <li><a href="https://mdi-lab.sys.wakayama-u.ac.jp/">和歌山大学メディアインテリジェンス研究室</a></li>
-</ul>
-</ul>
 <li><a href="https://twitter.com/CGP_wakayama">和歌山大学クリエゲーム制作プロジェクト（CGP）</a>2023年度代表</li>
+</ul>
+</ul>
 </p>
 
 <HR>
